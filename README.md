@@ -1,4 +1,4 @@
-# Python-projects
+# Starter-Python-projects
 
 These are few of the projects I've done while starting to learn python.
 
